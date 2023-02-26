@@ -15,6 +15,6 @@ Understanding this difficulty allowed me to understand my aptitude for disipline
 I was origionally trying to use floats and positioning to center the main container for the product card, but it was unsatisfactory. So I researched and read through mdn's flexbox documentation which worked immediately.
 
 **I learned and implemented the id attribute**
-I used this for the prtice amounts at the bottom of the card, then used inline-flex to get the two items side-by-side. I floated the first item left to complete the styling.
+I used this for the price amounts at the bottom of the card, then used inline-flex to get the two items side-by-side. I floated the first item left to complete the styling.
 
 
